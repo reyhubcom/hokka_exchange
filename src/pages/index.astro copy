@@ -46,7 +46,7 @@ const metadata = {
     actions={[
       {
         text: 'primary',
-        text: 'HOKA.Stake',
+        text: 'KIKO.Stake',
         href: 'https://linktr.ee/KIKOStake',
         target: '_blank',
         icon: 'tabler:coins',
@@ -60,15 +60,15 @@ const metadata = {
       },
       {
         text: 'primary',
-        text: 'BUY.Coin',
-        href: '/Buy',
+        text: 'Swap.Coin',
+        href: '/swap',
         target: '',
         icon: 'tabler:replace',
       },
       {
         text: 'primary',
-        text: 'HOKA.Shop',
-        href: 'https://linktr.ee/HOKA.Link',
+        text: 'KIKO.Shop',
+        href: 'https://linktr.ee/KIKOStake',
         target: '_blank',
         icon: 'tabler:building-store',
       },
