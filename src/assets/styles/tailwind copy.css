@@ -39,7 +39,7 @@
 }
 
 @utility bg-page {
-  background-color: var(--aw-color-bg-page-dark);
+  background-color: var(--aw-color-bg-page);
 }
 
 @utility bg-dark {
